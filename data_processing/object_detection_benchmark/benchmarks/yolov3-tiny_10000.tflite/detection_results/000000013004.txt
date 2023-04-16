@@ -1,0 +1,3 @@
+dining table 0.0124391 10 13 308 335
+dining table 0.00528473 -7 94 328 475
+dining table 0.0011752 34 319 401 480

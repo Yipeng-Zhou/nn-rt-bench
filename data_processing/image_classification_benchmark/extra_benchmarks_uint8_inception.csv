@@ -1,0 +1,5 @@
+model,size(MB),short_name
+inception_v1_224_uint8.tflite,6.7,inception_v1_q
+inception_v2_224_uint8.tflite,11.3,inception_v2_q
+inception_v3_299_uint8.tflite,23.9,inception_v3_q
+inception_v4_299_uint8.tflite,42.9,inception_v4_q

@@ -1,0 +1,2 @@
+model,size(MB),short_name
+efficientnet_b0_224_fp32.tflite,18.6,efficientnet_b0

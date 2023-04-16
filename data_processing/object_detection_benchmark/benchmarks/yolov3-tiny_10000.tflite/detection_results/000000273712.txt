@@ -1,0 +1,2 @@
+refrigerator 0.00591287 -6 49 126 591
+refrigerator 0.00256352 92 41 316 604

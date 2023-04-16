@@ -1,0 +1,3 @@
+model,size(MB),short_name
+vgg16_224_fp32.tflite,553.4,vgg16
+vgg19_224_fp32.tflite,574.7,vgg19

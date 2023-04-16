@@ -1,0 +1,4 @@
+model,size(MB),short_name
+mobilenet_v1_1.0_224_fp32_XNNPACK.tflite,16.9,mobilenet_v1_x
+mobilenet_v2_1.0_224_fp32_XNNPACK.tflite,14,mobilenet_v2_x
+mobilenet_v3_large_1.0_224_fp32_XNNPACK.tflite,21.9,mobilenet_v3_x

@@ -1,0 +1,4 @@
+traffic light 0.1486 368 266 402 326
+traffic light 0.123446 192 266 241 325
+traffic light 0.0294773 195 286 246 337
+traffic light 0.0132569 49 44 113 150

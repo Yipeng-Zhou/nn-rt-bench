@@ -1,0 +1,3 @@
+model,size(MB),short_name
+vgg16_224_fp32_XNNPACK.tflite,553.4,vgg16_x
+vgg19_224_fp32_XNNPACK.tflite,574.7,vgg19_x

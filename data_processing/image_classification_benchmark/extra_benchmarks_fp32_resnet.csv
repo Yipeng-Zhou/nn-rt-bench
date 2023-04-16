@@ -1,0 +1,7 @@
+model,size(MB),short_name
+resnet50_v1_224_fp32.tflite,102.2,resnet50_v1
+resnet101_v1_224_fp32.tflite,178.1,resnet101_v1
+resnet152_v1_224_fp32.tflite,240.7,resnet152_v1
+resnet50_v2_224_fp32.tflite,102.3,resnet50_v2
+resnet101_v2_224_fp32.tflite,178.4,resnet101_v2
+resnet152_v2_224_fp32.tflite,241.1,resnet152_v2

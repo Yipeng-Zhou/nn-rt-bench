@@ -1,0 +1,8 @@
+model,short_name,mAP(%),size(MB)
+yolov3-tiny.tflite,pre-trained,19.35,35.438716
+yolov3-tiny_00000.tflite,00000,15.49,35.438716
+yolov3-tiny_00001.tflite,00001,16.61,37.799776
+yolov3-tiny_00010.tflite,00010,14.96,36.029792
+yolov3-tiny_00100.tflite,00100,16.68,35.587168
+yolov3-tiny_01000.tflite,01000,16.58,35.476448
+yolov3-tiny_10000.tflite,10000,15.60,35.448736
