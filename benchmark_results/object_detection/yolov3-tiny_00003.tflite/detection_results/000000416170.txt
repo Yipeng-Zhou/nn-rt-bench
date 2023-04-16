@@ -1,0 +1,2 @@
+traffic light 0.00144237 16 3 35 70
+fire hydrant 0.00120349 20 493 37 554

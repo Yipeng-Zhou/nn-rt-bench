@@ -1,0 +1,3 @@
+refrigerator 0.0107502 -2 -35 346 295
+refrigerator 0.00272729 231 -11 498 332
+potted plant 0.00141286 16 191 184 353

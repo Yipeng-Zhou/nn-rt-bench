@@ -1,0 +1,4 @@
+traffic light 0.00403537 344 95 372 150
+traffic light 0.00156659 287 79 309 107
+potted plant 0.001265 -12 193 128 346
+potted plant 0.00111259 -3 0 101 80

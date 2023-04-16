@@ -1,0 +1,2 @@
+fire hydrant 0.0185215 150 45 332 463
+potted plant 0.00145966 4 5 76 98
