@@ -1,0 +1,13 @@
+*.swp
+*.out
+*.log
+*.npy
+*.pb
+*.bmp
+
+.vscode/
+build/
+/experiments/
+/logs/
+*/__pycache__/*
+.idea/
